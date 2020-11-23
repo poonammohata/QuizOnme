@@ -8,7 +8,7 @@ The motivation behind creating this project is Neogcamp
 
 # Visuals
 
-![screen image](images/screen.png"a title")
+![screen image](\images\screen.png "a title")
 
 # Usage
 
