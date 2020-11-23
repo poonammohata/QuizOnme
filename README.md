@@ -8,7 +8,7 @@ The motivation behind creating this project is Neogcamp
 
 # Visuals
 
-![Alt text](../images/screen.png"a title")
+![Alt text](./images/screen.png"a title")
 
 # Usage
 
